@@ -85,3 +85,8 @@ cv.putText(img,'OpenCV',(10,500), font, 4,(255,255,255),2,cv.LINE_AA)
 ### 练习题
 
 1. 尝试使用OpenCV中可用的绘图功能创建OpenCV的徽标。
+
+
+
+question:
+1. polylines's reshpe why?
