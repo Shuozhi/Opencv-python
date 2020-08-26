@@ -90,3 +90,4 @@ cv.putText(img,'OpenCV',(10,500), font, 4,(255,255,255),2,cv.LINE_AA)
 
 question:
 1. polylines's reshpe why?
+2.lineType = cv.LINE_AA 啥意思？
